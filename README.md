@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi! I'm Anna 👋
 
+[![My Skills](https://skillicons.dev/icons?i=swift,java,selenium,gherkin,idea,maven,jenkins)](https://skillicons.dev)
 <!--
 **AnnaTau/AnnaTau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
